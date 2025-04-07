@@ -1,0 +1,15 @@
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\bin\Debug\net9.0\ImportantExampleOnTask.exe
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\bin\Debug\net9.0\ImportantExampleOnTask.deps.json
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\bin\Debug\net9.0\ImportantExampleOnTask.runtimeconfig.json
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\bin\Debug\net9.0\ImportantExampleOnTask.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\bin\Debug\net9.0\ImportantExampleOnTask.pdb
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\obj\Debug\net9.0\ImportantExampleOnTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\obj\Debug\net9.0\ImportantExampleOnTask.AssemblyInfoInputs.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\obj\Debug\net9.0\ImportantExampleOnTask.AssemblyInfo.cs
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\obj\Debug\net9.0\ImportantExampleOnTask.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\obj\Debug\net9.0\ImportantExampleOnTask.sourcelink.json
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\obj\Debug\net9.0\ImportantExampleOnTask.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\obj\Debug\net9.0\refint\ImportantExampleOnTask.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\obj\Debug\net9.0\ImportantExampleOnTask.pdb
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\obj\Debug\net9.0\ImportantExampleOnTask.genruntimeconfig.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\ImportantExampleOnTask\obj\Debug\net9.0\ref\ImportantExampleOnTask.dll

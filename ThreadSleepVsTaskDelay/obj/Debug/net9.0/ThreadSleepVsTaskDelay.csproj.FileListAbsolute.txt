@@ -1,0 +1,15 @@
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\obj\Debug\net9.0\ThreadSleepVsTaskDelay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\obj\Debug\net9.0\ThreadSleepVsTaskDelay.AssemblyInfoInputs.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\obj\Debug\net9.0\ThreadSleepVsTaskDelay.AssemblyInfo.cs
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\obj\Debug\net9.0\ThreadSleepVsTaskDelay.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\obj\Debug\net9.0\ThreadSleepVsTaskDelay.sourcelink.json
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\bin\Debug\net9.0\ThreadSleepVsTaskDelay.exe
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\bin\Debug\net9.0\ThreadSleepVsTaskDelay.deps.json
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\bin\Debug\net9.0\ThreadSleepVsTaskDelay.runtimeconfig.json
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\bin\Debug\net9.0\ThreadSleepVsTaskDelay.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\bin\Debug\net9.0\ThreadSleepVsTaskDelay.pdb
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\obj\Debug\net9.0\ThreadSleepVsTaskDelay.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\obj\Debug\net9.0\refint\ThreadSleepVsTaskDelay.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\obj\Debug\net9.0\ThreadSleepVsTaskDelay.pdb
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\obj\Debug\net9.0\ThreadSleepVsTaskDelay.genruntimeconfig.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\ThreadSleepVsTaskDelay\obj\Debug\net9.0\ref\ThreadSleepVsTaskDelay.dll

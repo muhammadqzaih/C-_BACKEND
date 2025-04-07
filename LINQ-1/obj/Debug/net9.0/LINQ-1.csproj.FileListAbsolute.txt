@@ -1,0 +1,15 @@
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\bin\Debug\net9.0\LINQ-1.exe
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\bin\Debug\net9.0\LINQ-1.deps.json
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\bin\Debug\net9.0\LINQ-1.runtimeconfig.json
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\bin\Debug\net9.0\LINQ-1.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\bin\Debug\net9.0\LINQ-1.pdb
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\obj\Debug\net9.0\LINQ-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\obj\Debug\net9.0\LINQ-1.AssemblyInfoInputs.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\obj\Debug\net9.0\LINQ-1.AssemblyInfo.cs
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\obj\Debug\net9.0\LINQ-1.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\obj\Debug\net9.0\LINQ-1.sourcelink.json
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\obj\Debug\net9.0\LINQ-1.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\obj\Debug\net9.0\refint\LINQ-1.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\obj\Debug\net9.0\LINQ-1.pdb
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\obj\Debug\net9.0\LINQ-1.genruntimeconfig.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\LINQ-1\obj\Debug\net9.0\ref\LINQ-1.dll
