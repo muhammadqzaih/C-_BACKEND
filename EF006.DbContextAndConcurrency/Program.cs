@@ -27,7 +27,7 @@ namespace EF006.DbContextAndConcurrency
                 Jop1(serviceProvider),
                 Jop2(serviceProvider)
             };
-
+            
             await Task.WhenAll(tasks);
 
             Console.WriteLine("Jop1 and Jop2 execution succeeded.");
