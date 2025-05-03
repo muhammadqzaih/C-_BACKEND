@@ -1,0 +1,15 @@
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\bin\Debug\net9.0\Thrids.exe
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\bin\Debug\net9.0\Thrids.deps.json
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\bin\Debug\net9.0\Thrids.runtimeconfig.json
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\bin\Debug\net9.0\Thrids.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\bin\Debug\net9.0\Thrids.pdb
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\obj\Debug\net9.0\Thrids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\obj\Debug\net9.0\Thrids.AssemblyInfoInputs.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\obj\Debug\net9.0\Thrids.AssemblyInfo.cs
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\obj\Debug\net9.0\Thrids.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\obj\Debug\net9.0\Thrids.sourcelink.json
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\obj\Debug\net9.0\Thrids.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\obj\Debug\net9.0\refint\Thrids.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\obj\Debug\net9.0\Thrids.pdb
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\obj\Debug\net9.0\Thrids.genruntimeconfig.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\Thrids\obj\Debug\net9.0\ref\Thrids.dll

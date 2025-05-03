@@ -1,0 +1,36 @@
+﻿2. When to Use SQL Databases
+Use SQL databases when:
+
+✔ Data is structured & relational – When data follows a well-defined format with relationships (e.g., customer orders, banking transactions).
+✔ ACID compliance is required – When data integrity and consistency are critical (e.g., financial transactions, healthcare systems).
+✔ Complex queries are needed – When you need powerful SQL-based queries for analytics and reporting (e.g., CRM systems).
+✔ A well-defined schema is required – When the structure of data is unlikely to change frequently (e.g., ERP systems).
+
+🔹 Examples of SQL Databases: MySQL, PostgreSQL, Oracle, Microsoft SQL Server.
+
+Real-World SQL Use Cases
+Banking Systems: Ensuring transaction consistency and fraud detection.
+
+E-commerce Platforms: Managing orders, payments, and customer data.
+
+Enterprise Resource Planning (ERP) Systems: Handling employee records, payroll, and finance.
+
+//-----------------
+
+3. When to Use NoSQL Databases
+Use NoSQL databases when:
+
+✔ Data is unstructured or semi-structured – When data does not fit into a strict table format (e.g., social media posts, IoT data).
+✔ Horizontal scaling is needed – When dealing with high-traffic applications requiring distributed storage (e.g., Netflix, Twitter).
+✔ Flexibility is required – When the data model changes frequently or has unpredictable structures (e.g., content management systems).
+✔ Real-time performance is crucial – When low-latency, fast read/write operations are essential (e.g., real-time analytics, gaming leaderboards).
+
+🔹 Examples of NoSQL Databases: MongoDB, Cassandra, Redis, CouchDB.
+
+Real-World NoSQL Use Cases
+Social Media Platforms: Storing and retrieving millions of user interactions quickly.
+
+Big Data Analytics: Processing massive datasets in real-time.
+
+Streaming Services: Handling user activity logs and personalized recommendations.
+

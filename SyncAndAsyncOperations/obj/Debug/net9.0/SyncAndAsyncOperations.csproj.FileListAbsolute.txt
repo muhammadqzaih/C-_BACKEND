@@ -1,0 +1,15 @@
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\bin\Debug\net9.0\SyncAndAsyncOperations.exe
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\bin\Debug\net9.0\SyncAndAsyncOperations.deps.json
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\bin\Debug\net9.0\SyncAndAsyncOperations.runtimeconfig.json
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\bin\Debug\net9.0\SyncAndAsyncOperations.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\bin\Debug\net9.0\SyncAndAsyncOperations.pdb
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\obj\Debug\net9.0\SyncAndAsyncOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\obj\Debug\net9.0\SyncAndAsyncOperations.AssemblyInfoInputs.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\obj\Debug\net9.0\SyncAndAsyncOperations.AssemblyInfo.cs
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\obj\Debug\net9.0\SyncAndAsyncOperations.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\obj\Debug\net9.0\SyncAndAsyncOperations.sourcelink.json
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\obj\Debug\net9.0\SyncAndAsyncOperations.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\obj\Debug\net9.0\refint\SyncAndAsyncOperations.dll
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\obj\Debug\net9.0\SyncAndAsyncOperations.pdb
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\obj\Debug\net9.0\SyncAndAsyncOperations.genruntimeconfig.cache
+C:\Users\asus\RiderProjects\ConsoleApp1\SyncAndAsyncOperations\obj\Debug\net9.0\ref\SyncAndAsyncOperations.dll
